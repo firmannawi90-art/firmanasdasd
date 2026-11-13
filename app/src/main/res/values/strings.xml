@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConvoyNav AI</string>
+    <string name="app_subtitle">ระบบนำทางขบวนคาราวานพร้อม AI บรรยาย</string>
+    <string name="convoy_lead_car">คันนำขบวน (Lead Car)</string>
+    <string name="convoy_member_car">คันร่วมขบวน</string>
+    <string name="convoy_sweeper_car">คันปิดท้าย (Sweeper)</string>
+    <string name="ai_narrator_title">ไกด์ AI นำทาง &amp; บรรยาย</string>
+    <string name="ai_narrating_status">AI กำลังบรรยายเรื่องราว...</string>
+    <string name="ai_idle_status">AI พร้อมบรรยายเมื่อผ่านจุดสำคัญ</string>
+    <string name="regroup_alert">แจ้งเตือนรวมพล / จุดนัดพบ</string>
+    <string name="start_convoy">เริ่มการเดินทาง</string>
+    <string name="pause_convoy">หยุดชั่วคราว</string>
+    <string name="resume_convoy">เดินทางต่อ</string>
+    <string name="stop_convoy">สิ้นสุดการเดินทาง</string>
+</resources>
